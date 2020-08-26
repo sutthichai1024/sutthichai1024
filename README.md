@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Sutthichai from Thailand, and I do web developer. I really enjoy leaning languages and frameworks like laravel and vue. I'm interested backend and study node.js ,Docker,Nginx and aws.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sutthichai1024)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **sutthichai1024/sutthichai1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
