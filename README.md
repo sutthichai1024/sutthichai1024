@@ -3,12 +3,12 @@
 I'm Sutthichai from Thailand, and I do web developer. I really enjoy leaning languages and frameworks like laravel and vue. I'm interested backend and study node.js ,Docker,Nginx and aws.
 
 ## Skills and Experience
-* :computer:
-
-: VUE JS/Laravel / PHP / JS / HTML / CSS
+* :computer: HTML , CSS , JS , PHP , SQL
+* 👨‍💻 Laravel , NodeJS , ExpressJS ,Vue.js
+* ✨ Mysql , firebase 
+* 🚀 AWS , Docker , Nginx , Apache
 
 - 🔭 I’m currently working on DMC 
-- 🌱 I’m currently learning AWS , Node.js , Docker , Nginx 
 - 📫 How to reach me: sutthichaiphonchai@gmail.com 
 
 
