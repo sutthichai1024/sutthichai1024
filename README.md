@@ -16,7 +16,7 @@ I'm Sutthichai from Thailand, and I do web developer. I really enjoy leaning lan
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
 
-<a href='https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2020-08-05&ci=AWS01610663'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+<a href='https://www.youracclaim.com/badges/14719768-f83f-415e-bd36-c4a312fa5ff0/public_url'><img src='https://images.youracclaim.com/size/340x340/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png' width='40' height='40'></a> 
 
 
 
