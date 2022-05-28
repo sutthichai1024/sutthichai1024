@@ -8,7 +8,6 @@ I'm Sutthichai from Thailand, and I do web developer. I really enjoy leaning lan
 * ✨ Mysql , firebase 
 * 🚀 AWS , Docker , Nginx , Apache
 
-- 🔭 I’m currently working on DMC 
 - 📫 How to reach me: sutthichaiphonchai@gmail.com 
 
 
